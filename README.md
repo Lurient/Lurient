@@ -10,6 +10,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.discordapp.com/emojis/773899035039367201.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.alwaysdata.com%2Fstatic%2Fimg%2Ftechnologies%2Flanguages%2Fnodejs.png&f=1&nofb=1" />
 <img align="left" alt="HTML" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.w3.org%2Fhtml%2Flogo%2Fdownloads%2FHTML5_Logo_512.png&f=1&nofb=1" />
-<img align="left" alt="CSS" width="26px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fopencode.us%2Fwp-content%2Fuploads%2F2013%2F10%2Fcss3_logo.png&f=1&nofb=1" />
+<img align="left" alt="CSS" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2FLogos%2Fcss31600.png&f=1&nofb=1" />
 <img align="left" alt="JavaSctipt" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb6%2FBadge_js-strict.svg%2F739px-Badge_js-strict.svg.png&f=1&nofb=1" /> 
 <img align="left" alt="Python" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&f=1&nofb=1" />
