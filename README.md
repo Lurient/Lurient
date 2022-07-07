@@ -4,6 +4,6 @@
 Name:          Jan               ✨
 Location:      Minsk, Belarus    📍
 Organization:  FexHub            🗺️
-Languages: JavaScript, C#        😎
+Languages:     JavaScript, C#    😎
 Слава Україні!                   🇺🇦
 ```
