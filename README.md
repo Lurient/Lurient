@@ -7,9 +7,9 @@ My name is **Jan** and I live in **Minsk** - the capital of **Belarus**. I speak
 - [Kotlin](https://kotlinlang.org/)
 - [Node.JS](https://nodejs.org/en)
 
-### Projects
+### Projects ✨
 - [FexHub](https://github.com/FexHub)
 
-### Contacts
+### Contacts 🤙
 - [Discord](https://discord.com/users/1015215878205345803)
 - [Telegram](https://t.me/halfluffy7)
