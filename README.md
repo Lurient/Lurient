@@ -12,4 +12,4 @@ My name is **Jan** and I live in **Minsk** - the capital of **Belarus**. I speak
 
 ### Contacts 🤙
 - [Discord](https://discord.com/users/1015215878205345803)
-- [Telegram](https://t.me/halfluffy7)
+- [Telegram](https://t.me/lur1ent)
