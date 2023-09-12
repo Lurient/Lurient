@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is **Jan** and I live in **Minsk** - the capital of **Belarus**. I speak English, **Belarusian** (na łacincy taksama) and Polish.
+My name is **Ivan** and I live in **Minsk** - the capital of **Belarus**. I speak English, **Belarusian** (na łacincy taksama) and Polish. Also I understand Ukrainian ❤️
 
 ### Technologies 👨‍💻
 - [Nuxt](https://nuxt.com/)
